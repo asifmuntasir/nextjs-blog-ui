@@ -1,0 +1,68 @@
+.footer-bg{
+    background-color: #15171A;
+}
+
+// ============== Utility Classes
+.fw-550{
+    font-weight: 550;
+}
+
+.service-hover{
+    line-height: 1.8;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.service-hover li:hover{
+    color: #F2F2F2;
+    cursor: pointer;
+    font-weight: 550;
+}
+
+.footer-title{
+    font-weight: 550;
+    color: #CF341B;
+}
+
+.social-icon{
+    color: white;
+}
+
+.social-icon i{
+    padding: 10px;
+}
+
+.facebook:hover{
+    background-color: #0778E8;
+    cursor: pointer;
+    transition: 0.4s all;
+}
+
+.youtube:hover{
+    background-color: #FF0000;
+    cursor: pointer;
+    transition: 0.4s all;
+}
+
+.linkedin:hover{
+    background-color: #0A66C2;
+    cursor: pointer;
+    transition: 0.4s all;
+}
+
+.input-field{
+    margin-bottom: 15px;
+    border: none;
+    padding: 5px;
+}
+
+.footer-bottom-bg{
+    background-color: #0C0D0E;
+}
+
+.list-style li:hover{
+    color: #F2F2F2;
+    cursor: pointer;
+    font-weight: 550;
+}
+
